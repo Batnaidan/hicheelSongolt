@@ -1,0 +1,22 @@
+{
+  "name": "hicheelsongolt",
+  "version": "1.0.0",
+  "description": "small project with me n my nig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenThaMan/hicheelSongolt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenThaMan/hicheelSongolt/issues"
+  },
+  "homepage": "https://github.com/GreenThaMan/hicheelSongolt#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
